@@ -1,5 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f66976d5-a792-4073-ac2d-0428c2405104/deploy-status)](https://app.netlify.com/sites/reacthookusestate/deploys)
 
+[Site pronto](reacthookusestate.netlify.app/estatico)
+
 Esse é um projeto feito com [Next.js](https://nextjs.org/) e bootstrapped com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Utilizado
