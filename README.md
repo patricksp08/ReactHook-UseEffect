@@ -2,9 +2,9 @@
 
 [Site pronto](reacthookusestate.netlify.app/estatico)
 
-Esse é um projeto feito com [Next.js](https://nextjs.org/) e bootstrapped com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Utilizado
+
+Esse é um projeto feito com [Next.js](https://nextjs.org/) e bootstrapped com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ReactJS, React dom, NextJS
 
